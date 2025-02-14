@@ -25,7 +25,7 @@ public class IfLoops {
             System.out.println("Hot");
         }
 
-        Discount(); // Call the Discount method correctly
+        Discount(); 
     }
 
     public static void Discount() {  
